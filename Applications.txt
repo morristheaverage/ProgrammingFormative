@@ -1,0 +1,19 @@
+Applications of Computer Science:
+
+
+
+Machine Learning
+https://www.sas.com/en_gb/insights/articles/analytics/applications-of-machine-learning.html
+https://en.wikipedia.org/wiki/Machine_learning#Machine_learning_applications
+
+
+
+Quantum Computing
+https://www.dwavesys.com/quantum-computing/applications
+https://nqit.ox.ac.uk/content/applications-quantum-computing
+
+https://www.elprocus.com/robots-types-applications/
+
+https://www.forbes.com/sites/quora/2015/04/22/13-of-2015s-hottest-topics-in-computer-science-research/
+https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence
+http://www.bbc.co.uk/bitesize/intermediate2/computing/artificial_intelligence/applications_and_uses_of_artificial_intelligence/revision/1/
