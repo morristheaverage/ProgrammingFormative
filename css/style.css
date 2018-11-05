@@ -1,6 +1,13 @@
 body{
-	background: grey;
+	background: white;
 }
 h1{
-	color: blue;
+	color: darkgray;
+	text-align: center;
+}
+.imgButton{
+	text-align:center;
+}
+.img{
+	text-align:center;
 }
