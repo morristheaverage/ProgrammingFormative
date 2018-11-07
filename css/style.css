@@ -1,13 +1,16 @@
-body{
-	background: white;
+body {
+    background: white;
 }
-h1{
-	color: darkgray;
-	text-align: center;
+
+h1 {
+    color: darkgray;
+    text-align: center;
 }
-.imgButton{
-	text-align:center;
+
+.imgButton {
+    text-align: center;
 }
-.img{
-	text-align:center;
+
+.img {
+    text-align: center;
 }
